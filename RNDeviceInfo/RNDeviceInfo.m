@@ -6,7 +6,7 @@
 //  Copyright © 2015 Learnium Limited. All rights reserved.
 //
 
-#import "RNDeviceInfo.h"
+#import <React/RNDeviceInfo.h>
 #import "DeviceUID.h"
 
 @interface RNDeviceInfo()
